@@ -217,6 +217,7 @@ class ElectricCar(Car):
 
 print("\n")
 my_tesla = ElectricCar('tesla', 'model s', 2016)
+my_tesla.battery.describe_battery()
 print("在调用方法get_range()之前：")
 my_tesla.battery.get_range()
 my_tesla.battery.upgrade_battery()

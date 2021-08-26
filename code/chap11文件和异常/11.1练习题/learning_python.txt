@@ -1,0 +1,3 @@
+In python you can make a game.
+In python you can make a web.
+In python you can deal with the digits.
